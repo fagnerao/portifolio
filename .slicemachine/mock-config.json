@@ -1,0 +1,16 @@
+{
+  "slices": {
+    "Contato": {}
+  },
+  "_cts": {
+    "post": {
+      "Content": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    },
+    "porfifolio": {}
+  }
+}

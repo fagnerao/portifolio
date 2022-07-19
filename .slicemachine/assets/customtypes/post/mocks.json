@@ -1,0 +1,30 @@
+{
+  "id": "1124b9f6-ed14-4023-b452-4f6ebe5a9b5b",
+  "uid": "error-quia-itaque",
+  "type": "post",
+  "data": {
+    "Title": [
+      {
+        "type": "heading1",
+        "text": "Revolutionize vertical e-markets",
+        "spans": []
+      }
+    ],
+    "image": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1601933973783-43cf8a7d4c5f?w=900&h=500&fit=crop"
+    },
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Officia minim commodo duis. Ut exercitation exercitation cillum eiusmod est et qui duis et mollit laboris minim. Irure deserunt tempor reprehenderit commodo.",
+        "spans": []
+      }
+    ]
+  }
+}
