@@ -51,10 +51,14 @@ export const getStaticProps: GetStaticProps = async () => {
   })
 
   return {
-    props: { page,portifolio },
-    redirect: 60 * 60 // 60 minutes
+    props: { 
+      page,portifolio, 
+    },
+    redirect: 60 * 60, // 60 minutes
   }
 }
+    
+
 
 
 interface pageProps{
