@@ -53,8 +53,7 @@ export const getStaticProps: GetStaticProps = async () => {
   return {
     props: { page,portifolio },
   },
-    revalidate:60 * 60 , // 24 hours
-}
+    
 
 
 interface pageProps{
