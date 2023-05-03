@@ -25,7 +25,7 @@ export default function Footer(){
                                 <h2 className="footer_title text-xl font-semibold text-white">Contato</h2>
                                 <ul className="link pt-4 text-white">
                                     <li>fagnersi@gmail.com</li>
-                                    <li>(62) 9 9627-4216 </li>
+                                    <li>(62) 9 98296-8747 </li>
                                     <li></li>
                                 </ul>
                             </div>
